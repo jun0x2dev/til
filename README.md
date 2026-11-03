@@ -19,6 +19,8 @@
 
 ### [jpa](./jpa)
 
+- [비관적 락은 경쟁하는 양쪽 모두에 걸어야 의미가 있다](./jpa/pessimistic-lock-on-both-sides.md)
+
 ### [db](./db)
 
 ### [java](./java)
