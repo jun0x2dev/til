@@ -1,5 +1,7 @@
 # API에서 LocalDateTime으로 시각을 받으면 시간대가 조용히 어긋난다
 
+> [ticketing-simulator](https://github.com/jun0x2dev/ticketing-simulator)에서 겪은 일이다.
+
 ## 문제
 
 이벤트 생성 API가 오픈 시각을 `LocalDateTime`으로 받았다.
