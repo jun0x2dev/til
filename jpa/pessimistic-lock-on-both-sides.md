@@ -1,5 +1,7 @@
 # 비관적 락은 경쟁하는 양쪽 모두에 걸어야 의미가 있다
 
+> [ticketing-simulator](https://github.com/jun0x2dev/ticketing-simulator)에서 겪은 일이다.
+
 ## 문제
 
 좌석 상태는 두 곳에서 바뀐다.
