@@ -17,6 +17,8 @@
 
 ### [spring](./spring)
 
+- [잘못된 요청과 없는 경로가 500으로 응답됐다](./spring/client-errors-returned-as-500.md)
+
 ### [jpa](./jpa)
 
 - [비관적 락은 경쟁하는 양쪽 모두에 걸어야 의미가 있다](./jpa/pessimistic-lock-on-both-sides.md)
