@@ -29,4 +29,6 @@
 
 - [API에서 LocalDateTime으로 시각을 받으면 시간대가 조용히 어긋난다](./java/localdatetime-in-api-timezone.md)
 
-### [kafka-redis](./kafka-redis)
+### [redis](./redis)
+
+- [동시 결제 10건에 PG 승인이 10번 나갔다](./redis/redis-lock-before-external-call.md)
