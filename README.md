@@ -30,6 +30,10 @@
 
 - [API에서 LocalDateTime으로 시각을 받으면 시간대가 조용히 어긋난다](./java/localdatetime-in-api-timezone.md)
 
+### [kafka](./kafka)
+
+- [역직렬화 안 되는 Kafka 메시지 하나가 파티션 전체를 멈춘다](./kafka/kafka-poison-message.md)
+
 ### [redis](./redis)
 
 - [동시 결제 10건에 PG 승인이 10번 나갔다](./redis/redis-lock-before-external-call.md)
