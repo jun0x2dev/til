@@ -37,3 +37,4 @@
 ### [redis](./redis)
 
 - [동시 결제 10건에 PG 승인이 10번 나갔다](./redis/redis-lock-before-external-call.md)
+- [DB 트랜잭션이 롤백돼도 Redis는 되돌아가지 않는다](./redis/redis-side-effects-and-db-transaction.md)
