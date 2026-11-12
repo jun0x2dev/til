@@ -33,6 +33,7 @@
 ### [kafka](./kafka)
 
 - [역직렬화 안 되는 Kafka 메시지 하나가 파티션 전체를 멈춘다](./kafka/kafka-poison-message.md)
+- [Kafka 리스너에서 InterruptedException을 삼키면 처리하지 않은 메시지가 커밋된다](./kafka/kafka-listener-interrupted-exception.md)
 
 ### [redis](./redis)
 
