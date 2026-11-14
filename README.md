@@ -18,6 +18,7 @@
 ### [spring](./spring)
 
 - [잘못된 요청과 없는 경로가 500으로 응답됐다](./spring/client-errors-returned-as-500.md)
+- [ApplicationRunner는 웹 서버가 요청을 받기 시작한 뒤에 실행된다](./spring/application-runner-after-web-server.md)
 
 ### [jpa](./jpa)
 
