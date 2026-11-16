@@ -36,6 +36,7 @@
 
 - [역직렬화 안 되는 Kafka 메시지 하나가 파티션 전체를 멈춘다](./kafka/kafka-poison-message.md)
 - [Kafka 리스너에서 InterruptedException을 삼키면 처리하지 않은 메시지가 커밋된다](./kafka/kafka-listener-interrupted-exception.md)
+- [커밋 뒤에 바로 발행하면 그 사이에 좌석 이벤트가 사라질 수 있었다](./kafka/transactional-outbox-skip-locked.md)
 
 ### [redis](./redis)
 
