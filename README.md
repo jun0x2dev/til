@@ -31,6 +31,7 @@
 ### [java](./java)
 
 - [API에서 LocalDateTime으로 시각을 받으면 시간대가 조용히 어긋난다](./java/localdatetime-in-api-timezone.md)
+- [javac는 통과한 스트림 코드를 Eclipse 컴파일러는 컴파일 오류로 봤다](./java/ecj-wildcard-capture-inference.md)
 
 ### [kafka](./kafka)
 
