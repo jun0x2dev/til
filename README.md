@@ -25,6 +25,7 @@
 
 - [비관적 락은 경쟁하는 양쪽 모두에 걸어야 의미가 있다](./jpa/pessimistic-lock-on-both-sides.md)
 - [외부 API 호출을 트랜잭션 밖으로 뺐더니 커밋이 쪼개졌다](./jpa/transaction-template-around-external-call.md)
+- [선점 5분이 지나도 스케줄러가 돌기 전이면 결제가 성공했다](./jpa/hold-deadline-checked-only-by-scheduler.md)
 
 ### [db](./db)
 
