@@ -20,6 +20,7 @@
 - [잘못된 요청과 없는 경로가 500으로 응답됐다](./spring/client-errors-returned-as-500.md)
 - [WebSocket(STOMP)을 켜면 @Scheduled가 STOMP 스레드에서 돈다](./spring/scheduled-runs-on-stomp-scheduler.md)
 - [ApplicationRunner는 웹 서버가 요청을 받기 시작한 뒤에 실행된다](./spring/application-runner-after-web-server.md)
+- [WebSocket 허용 Origin을 *로 열어 두면 다른 사이트가 알림을 엿들을 수 있었다](./spring/websocket-origin-not-covered-by-cors.md)
 
 ### [jpa](./jpa)
 
